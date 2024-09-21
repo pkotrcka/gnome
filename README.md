@@ -1,4 +1,5 @@
 # Gnome 3 for Slackware Linux
+# This is still just a fork of the original repo, NOT UPDATED YET - in case this will change, you'll read about it here :-D
 
 <img src="screenshots/3.22.1.png" width="33%" alt="Gnome 3.22 on Slackware 14.2">
 <img src="screenshots/3.22.2.png" width="33%" alt="Gnome 3.22 on Slackware 14.2">
