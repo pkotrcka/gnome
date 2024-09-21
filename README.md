@@ -44,7 +44,7 @@ To get this release use `3.22/14.2` branch.
 Full Slackware installation is required.
 
 For Installation instruction please visit our
-[INSTALL WIKI](https://github.com/Dlackware/gnome/wiki/Install).
+[INSTALL WIKI](https://github.com/pkotrcka/gnome/wiki/Install).
 
 ### Finished, what now?
 
